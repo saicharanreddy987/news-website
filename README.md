@@ -1,0 +1,2 @@
+News App is a responsive web application that fetches and displays the latest news articles using the NewsAPI. Built using HTML, CSS, and JavaScript, it allows users to explore news across various categories like Education, IPL, Finance, and Politics, or perform custom keyword searches. Designed as a CSD 3rd Semester project at MGIT, the app features a clean UI, clickable news cards, and a member section to highlight team contributors.
+
